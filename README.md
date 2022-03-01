@@ -17,10 +17,6 @@
 
 
 
-<p align="center">we dont Know php and learn it at the same time we build the website, but we are exciting and motivated. </p>
-
-
-
 
 
 
